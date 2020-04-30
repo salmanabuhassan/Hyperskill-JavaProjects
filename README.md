@@ -18,7 +18,7 @@ Flashcard - Creating your own card with its definition.Then save it and later yo
 	    For example you load capitals card which contains country and its capital.
 	    Given the definition Capital of Russia, the answer would be Moscow.
 
-Simple Banking - Learn how to design simple banking system using OOP design and how to design it securely 
-Project		through encapsulation, access modifier and so on.Interact also through SQLite using 
-		Java Database Connectivity(JDBC)
+Simple Banking Project - Learn how to design simple banking system using OOP design and how to design it securely 
+                         through encapsulation, access modifier and so on.Interact also through SQLite using 
+		         Java Database Connectivity(JDBC)
 
