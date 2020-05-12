@@ -22,3 +22,7 @@ Simple Banking Project - Learn how to design simple banking system using OOP des
                          through encapsulation, access modifier and so on.Interact also through SQLite using 
 		         Java Database Connectivity(JDBC)
 
+Encryption-Decryption - Quite trivial project about classic cryptography algorithm. The main thing I learn from this
+			project is design pattern and how to apply it according to the situation. Design pattern learned
+			in this project are Strategy, Factory and Template pattern. Used Strategy for this project.
+
